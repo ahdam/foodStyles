@@ -1,11 +1,6 @@
 ## Step 1: Setup app
 
-First, you will need to install the dependencies required for the project.
-
-```bash
-yarn setup
-```
-Or do it manually.
+First, you'll need to install the dependencies that are required by the project.
 
 ```bash
 yarn
